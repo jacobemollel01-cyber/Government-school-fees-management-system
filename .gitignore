@@ -1,0 +1,20 @@
+
+# Local database credentials
+config/db.local.php
+.env
+.env.*
+
+# Database exports and backups
+*.sql
+*.sql.gz
+
+# Local and temporary files
+*.log
+*.tmp
+*.dump
+*.bak
+*.zip
+*.dump
+*.bak
+*.zip
+test_db.php
