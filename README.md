@@ -52,7 +52,7 @@ A PHP and MySQL web application for managing school fee payments and related fin
 
 2\. Create a MySQL database named `school\_fees`.
 
-3\. Import the database schema provided with this project.
+3\. Create the database tables using your project's database schema before running the application.
 
 4\. Create `config/db.local.php` using the structure shown in `config/db.local.example.php`.
 
