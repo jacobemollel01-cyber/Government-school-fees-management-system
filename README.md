@@ -22,8 +22,17 @@ A PHP and MySQL web application designed to help schools manage student records,
 - Git and GitHub
 
 ## Screenshots
+## Screenshots
 
-Screenshots will be added here to demonstrate the dashboard, student management, and payment workflows.
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin%20dashboard.png)
+
+### Custom Dashboard
+![Custom Dashboard](screenshots/customdashboard.png)
+
+### Payment Transactions
+![Payment Transactions](screenshots/paymentstransaction.png)
+
 
 ## Local Installation
 
